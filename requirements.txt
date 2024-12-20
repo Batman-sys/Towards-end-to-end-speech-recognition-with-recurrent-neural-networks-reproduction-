@@ -1,0 +1,9 @@
+torch>=2.3.0
+torchaudio>=2.3.0
+sounddevice>=0.4.4
+scipy>=1.10.0
+wavio>=0.0.0
+seaborn>=0.11.0
+matplotlib>=3.4.0
+tqdm>=4.62.0
+scikit-learn>=1.0.0
