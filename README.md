@@ -6,4 +6,4 @@ App.py: Tkinter app that let's the user record their own voice saying a number a
 
 I will add more to the ReadME once I have time.
 
-I assume that Notebook works 
+I assume that the Notebook works 
